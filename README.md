@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I'm Otabek Turdiboyev, I'm an **Android Developer** 📱, I'm from Uzbekistan.
+Hello, I'm Otabek Turdiboyev, I'm an **Android Developer** 📱, I'm from Uzbekistan and I am a student of Alfraganus University!
 
 <a href="https://app.daily.dev/otabekturdiboyev"><img src="https://api.daily.dev/devcards/df086ab9a46d4e56b119715c9440f312.png?r=0as" width="400" alt="Otabek Turdiboyev's Dev Card"/></a>
 
